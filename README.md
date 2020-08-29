@@ -57,6 +57,7 @@ Use o método explicado para poder decodificar a mensagem contida em um arquivo 
 
 A saída do programa deverá seguir o padrão abaixo, mas lembre-se que o seu programa será testado com arquivos distintos:
 
+~~~
 Digite o nome do arquivo: mensagem.txt
 
 --------------------
@@ -68,6 +69,8 @@ rglfil#drwF#w#udvdgrsdhvkqdi#hpohxhwrpfhp#dudgilvhg#t#qhv#lfhw#u#d#hqhs#r#vhahhg
 Mensagem decodificada:
 ----------------------
 A cifra de Cesar pode ser facilmente decifrada mesmo que se tenha apenas o texto cifrado
+~~~
+
 Referências:
 
 Coutinho, S. C. Criptografia. 2015. Disponível em: http://www.obmep.org.br/docs/apostila7.pdf.
